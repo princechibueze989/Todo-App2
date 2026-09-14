@@ -1,0 +1,19 @@
+{
+    "name": "TaskFlow - To-Do List",
+    "short_name": "TaskFlow",
+    "description": "Organize your day, one task at a time.",
+    "start_url": "./",
+    "scope": "./",
+    "display": "standalone",
+    "background_color": "#f4f7fb",
+    "theme_color": "#2563eb",
+    "orientation": "any",
+    "icons": [
+        {
+            "src": "icon.svg",
+            "sizes": "any",
+            "type": "image/svg+xml",
+            "purpose": "any maskable"
+        }
+    ]
+}
